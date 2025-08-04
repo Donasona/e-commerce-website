@@ -1,0 +1,61 @@
+
+/* index.html */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    background: url(./images/peal.jpg);
+    background-position: center;
+   background-size: cover;
+   height: 100vh;
+}
+
+.logo{
+    transition:  transform 0.5s linear;
+}
+.logo:hover{
+     transform: scale(1.2);
+}
+.nav-item{
+    margin-top: 5px;
+}
+.nav-item:hover{
+    color: #8b0000;
+    box-shadow:2px 2px 2px #8b0000;
+}
+.view{
+    color: #8b0000;
+}
+.view:hover{
+    background-color: #8b0000;
+    color:#f4e6d6; 
+}
+
+/* index.html */
+/* sign-in */
+footer{
+    color:#f4e6d6;
+    background-color: #8b0000;
+   }
+   .login{
+    background-color: #8b0000;
+    color: #f4e6d6;
+   }
+.login:hover{
+    background-color: #bd4f4f;
+    color:white;
+}
+  
+/* sign-in */
+/* sign-up */
+.sign_up{
+    width: 100%;
+    background: url(./images/peal.jpg);
+    background-position: center;
+   background-size: cover;
+   height: 100vh;
+}
+/* sign-up */
