@@ -106,3 +106,13 @@ footer{
     align-items: center;
 }
 /* homepage */
+/* /cart */
+.change{
+    background-color: white;
+}
+.change:hover{
+    background-color: #bd4f4f;
+    color: white;
+
+}
+/* cart */
